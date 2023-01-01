@@ -10,7 +10,13 @@ Representing and synthesizing novel views in real-world dynamic scenes from casu
 
 ## Rendering Results
 
+![](demo/fig1.png)
+
+![](demo/fig3.png)
+
 ## Disentangled Results
+
+![](demo/fig2.png)
 
 ## Getting Started
 
