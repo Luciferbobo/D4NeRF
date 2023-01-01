@@ -2,7 +2,9 @@
 
 PyTorch implementation of paper **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**.
 
-![](demo/main.png)
+<div align=center>
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/main.png" width="680"> 
+</div>
 
 ## Abstract
 
@@ -10,13 +12,27 @@ Representing and synthesizing novel views in real-world dynamic scenes from casu
 
 ## Rendering Results
 
-![](demo/fig1.png)
+<div align=center>
+  
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/fig1.png" width="680"> 
+  
+**Comparison of novel view synthesis**
 
-![](demo/fig3.png)
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/fig3.png" width="680"> 
+  
+**Quantitative comparison results on NVIDIA dynamic scenes**
+  
+</div>
 
 ## Disentangled Results
 
-![](demo/fig2.png)
+<div align=center>
+
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/fig2.png" width="680"> 
+  
+**Comparison on disentangled static background from entire scenes**
+  
+</div>
 
 ![](demo/scene_ours.mp4)
 
