@@ -34,14 +34,6 @@ Representing and synthesizing novel views in real-world dynamic scenes from casu
   
 </div>
 
-![](demo/scene_ours.mp4)
-
-![](demo/scenedepth_ours.mp4)
-
-![](demo/back_ours.mp4)
-
-![](demo/backdepth_ours.mp4)
-
 ## Getting Started
 
 Code will be released soon.
