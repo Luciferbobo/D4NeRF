@@ -1,6 +1,6 @@
 # $D^4NeRF$
 
-PyTorch implementation of paper **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**.
+PyTorch implementation of paper [Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields](http://arxiv.org/abs/2301.00411).
 
 <div align=center>
 <img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/main.png" width="680"> 
