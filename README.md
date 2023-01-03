@@ -3,7 +3,18 @@
 PyTorch implementation of paper [Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields](http://arxiv.org/abs/2301.00411).
 
 <div align=center>
+
 <img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/main.png" width="680"> 
+
+</div>
+
+<div align=center>
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/S4.gif" width="210"> 
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/Kid.gif" width="233"> 
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/S2.gif" width="210"> 
+
+**Novel View Synthesis**
+
 </div>
 
 ## Abstract
