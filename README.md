@@ -36,21 +36,16 @@ Representing and synthesizing novel views in real-world dynamic scenes from casu
 
 <div align=center>
   
-<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/scene_ours.mp4" width="680"> 
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/scene_ours.gif" width="200"> 
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/scenedepth_ours.gif" width="200"> 
   
-**The Entire Scene in RGB Space**
+**The Entire Scene**
 
-<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/scenedepth_ours.mp4" width="680"> 
   
-**The Entire Scene in Depth Space**
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/back_ours.gif" width="200"> 
+<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/backdepth_ours.gif" width="200"> 
   
-<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/back_ours.mp4" width="680"> 
-  
-**The Decoupled Background in RGB Space**
-
-<img src="https://github.com/Luciferbobo/D4NeRF/blob/main/demo/backdepth_ours.mp4" width="680"> 
-  
-**The Decoupled Background in Depth Space**
+**The Decoupled Background**
   
 </div>
 
