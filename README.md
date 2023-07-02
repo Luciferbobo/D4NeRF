@@ -120,3 +120,6 @@ python run_midas.py --data_path "/xxx/dense" --resize_height 272
 python run_flows_video.py --model models/raft-things.pth --data_path /xxx/dense
 ```
 
+## Acknowledge
+The code is built upon [NSFF](https://github.com/zhengqili/Neural-Scene-Flow-Fields) and thanks for their great work.
+
