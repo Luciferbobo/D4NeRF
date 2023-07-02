@@ -87,9 +87,19 @@ python train.py --config configs/config_Handcart.txt
 ```
 
 ### 3. Evaluation
+
+The evaluation on NVIDIA dataset focuses on synthesis across different viewpoints, while evaluation on Urban driving dataset aims to interpolate time intervals (frames).
+
+**Evaluation on Urban Driving Scenes**
+```
+python evaluation_NV.py --config configs/config_Balloon1.txt 
+```
+
+**Evaluation on NVIDIA Dynamic Scenes**
 ```
 python evaluation_urban.py --config configs/config_Handcart.txt 
 ```
+
 ### 4. Novel view synthesis
 **fixed time and view interpolation:**
 ```
