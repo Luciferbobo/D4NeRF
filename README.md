@@ -68,7 +68,7 @@ The code is trained with Python == 3.8.8, Pytorch == 1.11.0 and CUDA == 11.3, th
 * kornia
 * configargparse
 
-Then download NVIDIA Dynamic and Urban Driving [datasets](https://drive.google.com/file/d/1ahenaRp7eKIHo81BFJBjwBtQj_uH5DrG/view?usp=sharing). The whole data structure should be:
+Then download NVIDIA Dynamic and Urban Driving [datasets](https://drive.google.com/file/d/1ahenaRp7eKIHo81BFJBjwBtQj_uH5DrG/view?usp=sharing). The whole file structure should be:
 ```
 D4NeRF
 ├── configs
