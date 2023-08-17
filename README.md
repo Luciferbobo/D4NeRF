@@ -131,5 +131,11 @@ python run_flows_video.py --model models/raft-things.pth --data_path /xxx/dense
 ```
 
 ## Acknowledge
-The code is built upon [NSFF](https://github.com/zhengqili/Neural-Scene-Flow-Fields) and thanks for their great work.
+The code is built upon: 
+
+* [NeRF_Pytorch](https://github.com/yenchenlin/nerf-pytorch) 
+* [NSFF](https://github.com/zhengqili/Neural-Scene-Flow-Fields) 
+* [DyNeRF](https://github.com/gaochen315/DynamicNeRF) 
+
+Thanks for their great work.
 
